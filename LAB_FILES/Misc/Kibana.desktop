@@ -1,0 +1,7 @@
+[Desktop Entry]
+Version=1.0
+Type=Link
+Name=Kibana
+Comment=
+Icon=firefox
+URL=http://172.32.24.42:5601
