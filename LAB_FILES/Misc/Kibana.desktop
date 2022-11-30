@@ -4,4 +4,4 @@ Type=Link
 Name=Kibana
 Comment=
 Icon=firefox
-URL=http://172.32.24.42:5601
+URL=http://172.31.24.42:5601
